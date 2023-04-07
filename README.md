@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dev Simon Muturi
 - 👀 I’m interested in coding ,Rugby and Talks
-- 🌱 I’m currently Undertaking a Fullstack  web Development traning at TheJItu
+- 🌱 I’m Done Undertaking a Fullstack Software Development traning at TheJItu (Agular, Node js ,Express ,Typescript)
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me via email simomutu8@gmail.com
 
