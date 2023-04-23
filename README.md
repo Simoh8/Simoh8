@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif"></h1>
+<h1 align="center" style=height="20%"> <img src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif" ></h1>
 <h1 style="align-self:center;">Hello there 👋, I'm Simon Muturi @Devsimon</h1>
 <h3 align="center">A passionate Software developer from Kenya</h3>
 <h3 align="left">Languages and Tools i have used  :</h3>
